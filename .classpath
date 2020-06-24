@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-barcodes-7.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-barcodes-7.0.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-barcodes-7.0.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-font-asian-7.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-forms-7.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-forms-7.0.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-forms-7.0.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-hyph-7.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-io-7.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-io-7.0.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-io-7.0.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-kernel-7.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-kernel-7.0.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-kernel-7.0.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-layout-7.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-layout-7.0.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-layout-7.0.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-pdfa-7.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-pdfa-7.0.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-pdfa-7.0.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-pdftest-7.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-pdftest-7.0.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-pdftest-7.0.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-sign-7.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-sign-7.0.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java with database/itext7-sign-7.0.5-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
